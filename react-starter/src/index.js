@@ -1,9 +1,8 @@
-import React from 'react'
-import ReactDOM from 'react-dom'
+import React from "react";
+import ReactDOM from "react-dom";
+import Parent from "./components/Parent";
 
 const app_target = document.getElementById('app')
-const App = (props) => (
-    <div> This app builded with "Only React Boilerplate" </div>
-)
+const App = () => <Parent />;
 
-ReactDOM.render(<App />, app_target)
+ReactDOM.render(<App />, app_target);
