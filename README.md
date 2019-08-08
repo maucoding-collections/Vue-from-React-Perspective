@@ -2,6 +2,8 @@
 
 getting started Vue from React Perspective.
 
+[![](http://img.youtube.com/vi/icT_K5BBNHQ/0.jpg)](http://www.youtube.com/watch?v=icT_K5BBNHQ "")
+
 Is a starter project for the "Getting Started Vue from React Perspective" Video. For those who are familiar with React, here are some comparisons that can be found in Vue, more details please check the following video.
 
 ## Starter (Please read Readme.md in Each Directory)
