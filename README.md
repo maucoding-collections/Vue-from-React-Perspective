@@ -17,6 +17,6 @@ Vue : https://github.com/idmore/Vue-from-React-Perspective/tree/master/vue-start
 - React JS : https://reactjs.org/
 - Webpack : https://webpack.js.org/
 
-## Colaborator :
+## Contributors :
 
 - yussan : [https://twitter.com/xyussanx](https://twitter.com/xyussanx)
